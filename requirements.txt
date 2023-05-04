@@ -1,0 +1,4 @@
+This ischat application.
+Emoji
+type option
+colors
